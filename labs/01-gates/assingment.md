@@ -3,6 +3,7 @@
 ### De Morgan's laws
 
 1. Equations of all three versions of logic function f(c,b,a):
+   *chyba v obrázku u f(c,b,a)ORG, na konci má být b místo d
 
    ![IMG-0678](https://user-images.githubusercontent.com/99664755/154072756-8443725d-01e7-4fee-88c3-79c69431fff3.JPG)
 
