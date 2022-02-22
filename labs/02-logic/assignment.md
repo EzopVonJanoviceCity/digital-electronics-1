@@ -55,6 +55,5 @@
 
 3. Link to your public EDA Playground example:
 
-   [https://www.edaplayground.com/...](https://www.edaplayground.com/...)
    
    [4-bit comaparator edaplayground](https://www.edaplayground.com/x/iVAR)
