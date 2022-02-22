@@ -50,7 +50,8 @@
 
 2. Text console screenshot during your simulation, including reports.
 
-   ![your figure]()
+   ![Console screenshot](https://user-images.githubusercontent.com/99664755/155100169-932444f3-9726-4498-8ff5-ebac752344d6.png)
+
 
 3. Link to your public EDA Playground example:
 
