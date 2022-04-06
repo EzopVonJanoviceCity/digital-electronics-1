@@ -4,7 +4,7 @@
 
 1. Figure of traffic light controller state diagram. The image can be drawn on a computer or by hand. Always name all states, transitions, and input signals!
 
-   ![image](https://user-images.githubusercontent.com/99664755/162000348-f6d5014a-2ad7-45d5-b463-db8a8f9e7669.png)
+   ![image](https://user-images.githubusercontent.com/99664755/162000454-3a58ef5c-585a-4a6d-8f43-2cbfe34f986e.png)
 
 
 
