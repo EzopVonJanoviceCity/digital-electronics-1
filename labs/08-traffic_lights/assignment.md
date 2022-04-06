@@ -4,7 +4,8 @@
 
 1. Figure of traffic light controller state diagram. The image can be drawn on a computer or by hand. Always name all states, transitions, and input signals!
 
-   ![your figure]()
+   ![image](https://user-images.githubusercontent.com/99664755/162000096-7d5dabf8-f145-489e-af47-878011e33e3d.png)
+
 
 2. Listing of VHDL code of the completed process `p_traffic_fsm`. Always use syntax highlighting, meaningful comments, and follow VHDL guidelines:
 
